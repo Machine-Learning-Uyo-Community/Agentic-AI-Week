@@ -1,7 +1,7 @@
 ![alt text](speakers-ai-agents-week-1.png)
 
 # Machine Learning Uyo - AI Agents Bootcamp 2025
-
+![Views](https://visitor-badge.laobi.icu/badge?page_id=Machine-Learning-Uyo-Community.Agentic-AI-Week)
 ## Building Scalable Agentic AI Systems for Real-World Impact
 
 Welcome to the official GitHub repository for the Machine Learning Uyo AI Agents Bootcamp 2025! This repository serves as the central hub for all materials related to our 5-day intensive virtual hands-on training program. Here, you will find the code, notebooks, essential resources, and practical assignments designed to guide you through the process of building scalable AI agents.
