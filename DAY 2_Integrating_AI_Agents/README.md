@@ -14,7 +14,7 @@ Following our introduction to AI Agents on Day 1, today we delved into the funda
 
 If you missed the live session or want to revisit the content, you can watch the recording here:
 
-▶️ **Watch the Recorded Session (Day 2):** [Insert Day 2 YouTube Link Here]
+▶️ **Watch the Recorded Session (Day 2):** [\[YouTube  Here (subscribe)\]](https://youtu.be/ghPvbEXqoaE)
 
 ---
 
